@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bonjour 👋
+
+Je suis un développeur web pigiste de Montréal.
+Pour me rejoindre, vous pouvez envoyer un courriel à l'addresse bonjour@denislessard.com
 
 <!--
 **denisdotdev/denisdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
