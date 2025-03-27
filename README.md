@@ -1,7 +1,7 @@
 ## Bonjour 👋
 
 Je suis un développeur web pigiste de Montréal.
-Pour me rejoindre, vous pouvez envoyer un courriel à l'addresse bonjour@denislessard.com
+Pour me rejoindre, vous pouvez envoyer un courriel à l'addresse denis@fractionnaire.ca
 
 <!--
 **denisdotdev/denisdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
