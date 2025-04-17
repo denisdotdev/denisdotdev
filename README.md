@@ -1,7 +1,6 @@
-## Bonjour 👋
+## Hello 👋
 
-Je suis un développeur web pigiste de Montréal.
-Pour me rejoindre, vous pouvez envoyer un courriel à l'addresse denis@fractionnaire.ca
+I am a freelance web developer based in Montréal, Canada.
 
 <!--
 **denisdotdev/denisdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
