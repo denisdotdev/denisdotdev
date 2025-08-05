@@ -2,6 +2,8 @@
 
 I am a freelance web developer based in Montréal, Canada.
 
+You can reach me at denis@lessard.io
+
 <!--
 **denisdotdev/denisdotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
